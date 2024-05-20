@@ -66,7 +66,7 @@ h1 {
 
 .circle {
     background-image: linear-gradient(to top, hsla(241, 72%, 46%, 0),hsla(256, 72%, 46%, 1) );
-    border-radius: 150px;
+    border-radius: 50%;
     width: 180px;
     height: 180px;
     display: flex;
